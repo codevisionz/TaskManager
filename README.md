@@ -7,13 +7,13 @@ Name: Text-based Task Manager
 
 Description: This program allows users to manage their tasks through a text-based interface. Users can add tasks, mark tasks as completed, view their task list, and delete tasks.
 
-##Features:
+<h2>Features</h2>
 Add tasks: Users can add tasks to their task list.
 View tasks: Users can view their current task list.
 Mark tasks as completed: Users can mark tasks as completed.
 Delete tasks: Users can delete tasks from their task list.
 
-##Implementation Plan:
+<h2>Implementation Plan</h2>
 Task Class: Create a class to represent a task. This class should have attributes like task name, description, and completion status.
 Task Manager Class: Create a class to manage tasks. This class should have methods to add tasks, mark tasks as completed, delete tasks, and display the task list.
 User Interface: Implement a text-based interface to interact with the Task Manager. This interface should allow users to perform actions like adding tasks, viewing tasks, marking tasks as completed, and deleting tasks.
